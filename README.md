@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalith Kumar Dabilpuram</h1>
+<h1 align="center">Hi 👋, I'm Lalith Kumar</h1>
 <h3 align="center">🌟 AI/ML Engineer & Data Scientist | RAG Pipelines · Multi-Agent Systems · LLM APIs 🌟</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 - 🚀 **Current Focus:** Building production AI/ML systems and data-driven solutions as an AI/ML Engineer & Data Scientist at Deloitte
 - 🌱 **Currently exploring:** Advanced RAG architectures (HyDE, hybrid BM25 + dense retrieval, parent-child chunking, cross-encoder reranking, Self-RAG)
 - 💬 **Ask me about:** RAG system design, LLM evaluation (RAGAS, LangSmith), agentic workflows
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/lalithdabilpuram)
+- 📫 **Reach me at:** ldabilpuram@gmail.com
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalithdabilpuram)
+[![Gmail](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldabilpuram@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalithdabilpuram01)
 
 ---
