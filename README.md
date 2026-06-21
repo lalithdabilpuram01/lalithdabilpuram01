@@ -11,7 +11,7 @@
 
 - 🔭 **Education:** M.S. in Computer Science, University of Central Missouri (Graduated May 2025)
 - 🤖 **Specialized in:** RAG pipelines, multi-agent systems (LangChain, LangGraph, CrewAI), LLM inference APIs, FastAPI
-- 🚀 **Current Focus:** Building production AI/ML systems and data-driven solutions as an AI/ML Engineer & Data Scientist at Deloitte
+- 🚀 **Current Focus:** Building production AI/ML systems and data-driven solutions as an AI/ML Engineer & Data Scientist.
 - 🌱 **Currently exploring:** Advanced RAG architectures (HyDE, hybrid BM25 + dense retrieval, parent-child chunking, cross-encoder reranking, Self-RAG)
 - 💬 **Ask me about:** RAG system design, LLM evaluation (RAGAS, LangSmith), agentic workflows
 - 📫 **Reach me at:** ldabilpuram@gmail.com
