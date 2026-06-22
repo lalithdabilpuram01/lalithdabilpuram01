@@ -36,7 +36,6 @@
 ### 📜 Certifications
 
 - ☁️ Google Cloud Professional Machine Learning Engineer
-- 🤖 AWS Certified Machine Learning Engineer Associate
 - 🧠 Databricks AI Agent Fundamentals
 - ⚡ Databricks Generative AI Fundamentals
 
