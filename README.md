@@ -35,7 +35,7 @@
 
 ### 📜 Certifications
 
-- ☁️ Google Cloud Professional Machine Learning Engineer
+- ☁️ Microsoft Certified: Azure AI Engineer Associate
 - 🧠 Databricks AI Agent Fundamentals
 - ⚡ Databricks Generative AI Fundamentals
 
