@@ -37,7 +37,7 @@
 
 ### 📜 Certifications
 
-- ☁️ Microsoft Certified: Azure AI Engineer Associate
+- ☁️ AWS Certified Generative AI Developer Professional
 - 🧠 Databricks AI Agent Fundamentals
 - ⚡ Databricks Generative AI Fundamentals
 
