@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalith Kumar</h1>
-<h3 align="center">🌟 AI/ML Engineer & Data Scientist | RAG Pipelines · Multi-Agent Systems · LLM APIs 🌟</h3>
+<h3 align="center">🌟 AI/ML Engineer  |Data Science · RAG Pipelines · Multi-Agent Systems · LLM APIs 🌟</h3>
 
 <p align="center">
   <code>Passionate about building intelligent, production-grade AI systems</code> 🌱
