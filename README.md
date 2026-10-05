@@ -37,17 +37,21 @@
 
 ### 📜 Certifications
 
-- ☁️ AWS Certified Generative AI Developer Professional
+- 🤖 Claude Certified AI Architect Professional - Anthropic
 
 ---
 
 ### 🚀 Featured Projects
 
 - **Production-Grade Advanced RAG Tool** — Hybrid retrieval, reranking, and evaluation pipeline
-- **Real Estate Research RAG Tool** — Domain-specific retrieval-augmented Q&A system
-- **Healthcare Premium Prediction App** — ML model for insurance premium estimation
-- **E-Commerce AI Chatbot** — Semantic routing chatbot built with Groq and Streamlit
+- **Enterprise** RAG - Self-correcting LangGraph agent with NeMo Guardrails, Qdrant + Vertex AI reranking, and Document AI ingestion
 - **Car Damage Detection** — Computer vision system using YOLOv8
+- **E-Commerce AI Chatbot** — Semantic routing chatbot built with Groq and Streamlit
+- **Credit Risk Modeling System** — ML system for loan default prediction and borrower creditworthiness assessment with a Streamlit UI
+- **Healthcare Premium Prediction App** — ML model for insurance premium estimation
+- **Real Estate Research RAG Tool** — Domain-specific retrieval-augmented Q&A system
+
+
 
 ---
 
