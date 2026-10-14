@@ -37,7 +37,7 @@
 
 ### 📜 Certifications
 
-- 🤖 Claude Certified AI Architect Professional - Anthropic
+- 🤖 ![Anthropic Claude Certified Architect - Professional](https://www.credly.com/earner/earned/badge/78d45610-291a-4a55-8a2f-943b476e6c70)
 
 ---
 
